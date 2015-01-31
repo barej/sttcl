@@ -2,6 +2,10 @@
 STTCL
 =====
 
+Before everything
+	Before everything I express my sympathetic feeling toward all victims of Nazism and Racism.
+	We do not forget Jews who have been harmed in Germany innocently. This hatred trend must be stopped.
+  
 About
 
 	STTCL is a C++ template class framework to support the implementation of finite 
